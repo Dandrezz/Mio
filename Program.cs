@@ -8,6 +8,8 @@ namespace Mio
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello World!2dot");
+            Console.WriteLine("Hello World!3dot");
+            Console.WriteLine("Hello World!3dot");
         }
     }
 }
