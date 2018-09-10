@@ -1,0 +1,11 @@
+/home/diego/Documents/vscode/Mio/bin/Debug/netcoreapp2.1/Mio.deps.json
+/home/diego/Documents/vscode/Mio/bin/Debug/netcoreapp2.1/Mio.runtimeconfig.json
+/home/diego/Documents/vscode/Mio/bin/Debug/netcoreapp2.1/Mio.runtimeconfig.dev.json
+/home/diego/Documents/vscode/Mio/bin/Debug/netcoreapp2.1/Mio.dll
+/home/diego/Documents/vscode/Mio/bin/Debug/netcoreapp2.1/Mio.pdb
+/home/diego/Documents/vscode/Mio/obj/Debug/netcoreapp2.1/Mio.csprojAssemblyReference.cache
+/home/diego/Documents/vscode/Mio/obj/Debug/netcoreapp2.1/Mio.csproj.CoreCompileInputs.cache
+/home/diego/Documents/vscode/Mio/obj/Debug/netcoreapp2.1/Mio.AssemblyInfoInputs.cache
+/home/diego/Documents/vscode/Mio/obj/Debug/netcoreapp2.1/Mio.AssemblyInfo.cs
+/home/diego/Documents/vscode/Mio/obj/Debug/netcoreapp2.1/Mio.dll
+/home/diego/Documents/vscode/Mio/obj/Debug/netcoreapp2.1/Mio.pdb
